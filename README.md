@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 Projects
-- **[Cloud Native Web Application](https://github.com/yourusername/CloudNativeApp)**  
-- **[Student Housing Management System](https://github.com/yourusername/StudentHousingApp)**  
-- **[Career Nest Job Application](https://github.com/yourusername/CareerNestApp)**
+- **[Cloud Native Web Application](https://github.com/manalisanjayraut/webapp)**  
+- **[Student Housing Management System](https://github.com/manalisanjayraut/Spring-Boot-Hibernate-Student-Housing-Project)**  
+- **[Career Nest Job Application](https://github.com/manalisanjayraut/FullStackMernWebProject)**
 
 ---
 
